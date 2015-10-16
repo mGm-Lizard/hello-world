@@ -1,2 +1,4 @@
 # hello-world
-Simple first program
+//My simple first program 
+
+//GitHub, here I go!
